@@ -18,3 +18,5 @@ Feel free to drop an Issue above. We constantly updating our cheats to head up w
 
 ## Suggestions
 If you have any suggestions on how to improve our cheat (update existing modules or add new one etc.) - create an issue above with the __"enchancement"__ label.
+
+![Promo image](img/squad.png)
