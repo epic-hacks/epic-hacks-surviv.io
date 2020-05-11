@@ -1,4 +1,9 @@
 # Premium Surviv Cheats
+Since we are not officially released yed, [head up with any discussion here](https://github.com/epic-hacks/epic-hacks-surviv.io/issues/1). 
+
+Therefore no download is currently available. Stay updated.
+
+
 ![Promo image](img/promo.png)
 
 ## Download
