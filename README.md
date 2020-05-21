@@ -1,4 +1,4 @@
-# Premium Surviv Cheats
+# Premium Surviv Cheats (RELEASING TODAY!)
 
 ## Launching soon 🌟 Watch the repo and Put a star to be notified on release
 We will be launching in the nearest couple of days, YAY 😱
