@@ -1,18 +1,15 @@
-# Premium Surviv Cheats (RELEASING TODAY!)
+# Premium Surviv Cheats (DOWNLOAD AVAILABLE)
 
-## Launching soon 🌟 Watch the repo and Put a star to be notified on release
-We will be launching in the nearest couple of days, YAY 😱
+🎁 🥺 We are giving the _Premium_ EPIC-account for everyone until May 27! 🥺 🎁
 
-🎁 🥺 We will be giving the _Premium_ account for everyone! 🥺 🎁
-
-The following features will be available with BASIC account:
+The following features are available with BASIC account:
 1. 🔶 __Auto loot, auto doors__ - picks up loot && opens doors.
 2. 🔥 __Bumpfire__ - no more constant mouse clicks.
 3. 🕶 __ESP__ - displays other players, bullet scattering, explosives etc.
 4. ⏳ __Grenade Timer__ - displays the countdown if the granate is active but still in hand.
 5. 🧐 __Transparancy__ - look through the trees and roofs.
 
-The PREMIUM account will include all the features of the basic account AND:
+The PREMIUM account includes all the features of the basic account AND:
 1. 😈 __EPIC Aim Bot__ - smart & precise aimbot at players and objects with highlighting the selected enemy.
 2. ⚔️ __Ammo viewer__ - shows the current ammo in each weapon
 3. ⌨️ __Bind Toggles__ - bind ANY button to toggle another cheats, such as EPIC Aim Bot, Smart Switch, SpinBot etc.
@@ -21,9 +18,7 @@ The PREMIUM account will include all the features of the basic account AND:
 6. 🎚 __Smart Switch__ - the BEST weapon switcher you've ever seen. Switches the weapons depending on the range to the enemy, QQ's single weapons to remove the slowdown after shot, swithes if run out of ammo.
 7. 👾 __Spin Bot__ - spins as fast as You can't.
 
-Since we are not officially released yet, [head up with any discussion here](https://github.com/epic-hacks/epic-hacks-surviv.io/issues/1). 
-
-Therefore no download is currently available. Stay updated.
+If you found any bugs or want to suggest a feature, [head up with any discussion here](https://github.com/epic-hacks/epic-hacks-surviv.io/issues). 
 
 ![Promo image](img/promo.png)
 
@@ -44,5 +39,3 @@ Feel free to drop an Issue above. We constantly updating our cheats to head up w
 
 ## Suggestions
 If you have any suggestions on how to improve our cheat (update existing modules or add new one etc.) - create an issue above with the __"enchancement"__ label.
-
-![Promo image](img/squad.png)
