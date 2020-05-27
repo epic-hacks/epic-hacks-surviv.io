@@ -1,3 +1,4 @@
+# Rolling out an update within one hour. Stay tuned
 # Premium Surviv Cheats (DOWNLOAD AVAILABLE)
 
 🎁 🥺 We are giving the _Premium_ EPIC-account for everyone until May 27! 🥺 🎁
