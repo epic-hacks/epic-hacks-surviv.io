@@ -1,5 +1,5 @@
-# v1.1.1 RELEASED. ALL KNOWN BUGS FIXED
 # Premium Surviv Cheats (DOWNLOAD AVAILABLE)
+## Issues are temporary closed.
 
 🎁 🥺 We are giving the _Premium_ EPIC-account for everyone until May 27! 🥺 🎁
 
@@ -19,7 +19,7 @@ The PREMIUM account includes all the features of the basic account AND:
 6. 🎚 __Smart Switch__ - the BEST weapon switcher you've ever seen. Switches the weapons depending on the range to the enemy, QQ's single weapons to remove the slowdown after shot, swithes if run out of ammo.
 7. 👾 __Spin Bot__ - spins as fast as You can't.
 
-If you found any bugs or want to suggest a feature, [head up with any discussion here](https://github.com/epic-hacks/epic-hacks-surviv.io/issues). 
+Issues are temporary closed. ~~If you found any bugs or want to suggest a feature, [head up with any discussion here](https://github.com/epic-hacks/epic-hacks-surviv.io/issues).~~
 
 ![Promo image](img/promo.png)
 
@@ -36,7 +36,7 @@ If you found any bugs or want to suggest a feature, [head up with any discussion
 4. Click __"Load Unpacked"__ on the top left corner and select the folder that you extracted in step 1.
 
 ## Not working?
-Feel free to drop an Issue above. We constantly updating our cheats to head up with every surviv update.
+Issues are temporary closed. ~~Feel free to drop an Issue above. We constantly updating our cheats to head up with every surviv update.~~
 
 ## Suggestions
-If you have any suggestions on how to improve our cheat (update existing modules or add new one etc.) - create an issue above with the __"enchancement"__ label.
+Issues are temporary closed. ~~If you have any suggestions on how to improve our cheat (update existing modules or add new one etc.) - create an issue above with the __"enchancement"__ label.~~
