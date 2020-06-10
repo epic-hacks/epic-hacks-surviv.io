@@ -1,9 +1,14 @@
-# Premium surviv.io cheats
+# Premium surviv.io cheats (Download available)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20MacOS-blue)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/epic-hacks/epic-hacks-surviv.io?label=Latest%20launcher)
+![GitHub last commit](https://img.shields.io/github/last-commit/epic-hacks/63686561742d736f75726365?label=Last%20cheat%20update)
+![GitHub All Releases](https://img.shields.io/github/downloads/epic-hacks/epic-hacks-surviv.io/total)
 
-Sorry for the shutdown. We had some legal issues with IceHacks regarding the source code of the cheat.
+Hey hackers!
 
-Since we no longer use any part of SCI, all problems should be automatically resolved. Any evidence of our source code may be presented to the issuer in accordance with a legal request. Let's put an end to the war between all cheat developers 🙏
+After a week of downtime, Epic-Hacks are back with a new cheat update. Now, instead of the Chrome extension, we use the native launcher for surviv.io. Why? Check out the full description on our download page. All our apps are tested by VirusTotal check, a link to VT can be found below in the _Launch_ section. Enjoy hacking!
+
+#hacksurviv #epic-hacks
 
 ## Download
 1. Visit our [download page](https://github.com/epic-hacks/epic-hacks-surviv.io/releases/latest).
