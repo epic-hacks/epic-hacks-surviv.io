@@ -30,6 +30,13 @@ After a week of downtime, Epic-Hacks are back with a new cheat update. Now, inst
 - Open Finder -> Applications, right click on __Epic-Hacks launcher__ and press open. <img width="300" alt="Mac install 1" src="https://raw.githubusercontent.com/epic-hacks/epic-hacks-surviv.io/master/img/install-mac-1.png"> <img width="250" alt="Mac install 2" src="https://raw.githubusercontent.com/epic-hacks/epic-hacks-surviv.io/master/img/install-mac-2.png"> <img width="250" alt="Mac install 3" src="https://raw.githubusercontent.com/epic-hacks/epic-hacks-surviv.io/master/img/install-mac-3.png">
 - Next time just open app normally.
 
+__If the method above doesn't work__ (Reference from https://support.apple.com/en-us/HT202491):
+- If you trying to open the launcher and see something like that: <img width="450" alt="Mac install 4" src="https://raw.githubusercontent.com/epic-hacks/epic-hacks-surviv.io/master/img/install-mac-4.jpg">
+- Press "Cancel" or "Ok" depending on the message you see above.
+- Navigate to __System Preferences > Security & Privacy__, under the General tab yo will see something like that: <img width="450" alt="Mac install 5" src="https://raw.githubusercontent.com/epic-hacks/epic-hacks-surviv.io/master/img/install-mac-5.jpg">
+- Press "Open Anyway" and the following popup window.
+- Next time just open app normally.
+
 ## Feedback
 If you have any suggestions or found any bugs - send them to my email: admin@epic-hacks.com
 
